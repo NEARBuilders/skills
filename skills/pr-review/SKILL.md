@@ -1,6 +1,6 @@
 ---
 name: pr-review
-description: Review a pull request the way Elliot Braem reviews NEARBuilders / MultiAgency code (everything-dev / every-plugin, oRPC, TanStack Router, Effect). Use when asked to review a PR, a branch, or local changes in these repos, or to "review like Elliot".
+description: Review a pull request, a branch, or local changes. Gives a verdict on the change as a whole, then what to delete, revert, replace, or simplify. Use when asked to review a PR or code changes.
 ---
 
 # PR review (Elliot-style)

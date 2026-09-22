@@ -25,7 +25,7 @@ npx skills update pr-review  # just this one
 
 | Skill | What it does |
 |---|---|
-| [`pr-review`](skills/pr-review/SKILL.md) | Reviews a PR the way Elliot Braem reviews NEARBuilders / MultiAgency code: first a verdict on the PR as a whole, then hunk by hunk what to delete, revert, replace with something that already exists, or simplify. |
+| [`pr-review`](skills/pr-review/SKILL.md) | Reviews a PR: a verdict on the change as a whole, then what to delete, revert, replace, or simplify. |
 
 Try it without installing:
 
